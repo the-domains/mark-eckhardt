@@ -1,0 +1,23 @@
+name: Mark Eckhardt
+favicon: null
+layout_spectrum: 0.35326008568517864
+typography_spectrum: 0.5037668431177735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.061855101492255926
+  lightness: 0.37709251535125077
+  saturation: 0.6440792789217085
+  rhythmicContrast: 0.06289911200292408
+purpose: []
